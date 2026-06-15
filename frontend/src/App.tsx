@@ -97,7 +97,7 @@ function App() {
     <div className="page">
       <div className="container">
         <header className="hero">
-          <p className="eyebrow">TTB Compliance Prototype</p>
+          <p className="eyebrow">AI-Powered Alcohol Label Verification Prototype</p>
           <h1>AI-Powered Alcohol Label Verification</h1>
           <p>
             Upload a label image, extract text using OCR, and compare it against
