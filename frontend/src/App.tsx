@@ -72,7 +72,7 @@ function App() {
 
     try {
       const response = await axios.post<ApiResponse>(
-        "http://127.0.0.1:8000/api/verify",
+        "https://ai-alcohol-label-verification-4j54.onrender.com/api/verify",
         formData
       );
 
